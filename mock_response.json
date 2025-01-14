@@ -1,0 +1,21 @@
+{
+  "version": "1.0",
+  "languages": {
+    "en": {
+      "welcome_message": "Welcome to the app",
+      "error_message": "Something went wrong"
+    },
+    "ar": {
+      "welcome_message": "مرحبا بك في التطبيق",
+      "error_message": "حدث خطأ ما"
+    },
+    "zh": {
+      "welcome_message": "欢迎使用应用程序",
+      "error_message": "出现了一些问题"
+    },
+    "ur": {
+      "welcome_message": "ایپ میں خوش آمدید",
+      "error_message": "کچھ غلط ہو گیا"
+    }
+  }
+}
