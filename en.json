@@ -1,6 +1,6 @@
 {
     "welcome_message": "Welcome to the app! ",
     "error_message": "Something went wrong",
-    "settings_button": "setting";
+    "settings_button": "setting",
     "home": "Home"
 }
